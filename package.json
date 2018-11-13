@@ -1,0 +1,30 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstBot.js",
+  "dependencies": {
+    "arraylist": "^0.1.0",
+    "audio": "^1.2.0",
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.2.1",
+    "audio-source": "^1.1.1",
+    "audio-speaker": "^1.5.0",
+    "buffer": "^5.2.1",
+    "context": "0.0.1",
+    "express": "^4.16.3",
+    "is-audio-buffer": "^1.1.0",
+    "mysql": "^2.16.0",
+    "negative-index": "^1.0.2",
+    "play": "^0.5.0",
+    "play-sound": "^1.1.2",
+    "tmi.js": "^1.2.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
