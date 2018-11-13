@@ -2,3 +2,6 @@ Simple twitch bot with local access to a MYSQL Server using node.js
 currChannel is the channel you wish the messages to be posted to
 channels: [] is the list of channels bot will monitor
 uses chat commands to operate (most limited to my account or a moderator account)
+
+
+zip file contains node modules used by the bot
